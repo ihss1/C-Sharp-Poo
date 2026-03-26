@@ -12,3 +12,4 @@ C:\Users\ihssa\OneDrive\Desktop\S2\C#\POO\obj\Debug\net10.0\refint\POO.dll
 C:\Users\ihssa\OneDrive\Desktop\S2\C#\POO\obj\Debug\net10.0\POO.pdb
 C:\Users\ihssa\OneDrive\Desktop\S2\C#\POO\obj\Debug\net10.0\POO.genruntimeconfig.cache
 C:\Users\ihssa\OneDrive\Desktop\S2\C#\POO\obj\Debug\net10.0\ref\POO.dll
+C:\Users\ihssa\OneDrive\Desktop\S2\C#\POO\obj\Debug\net10.0\POO.sourcelink.json
